@@ -31,4 +31,4 @@ I am preparing a **CSC Visiting PhD** application (12 months). My goal is to con
 Meet my emotional supporter — **Biaobiao (彪彪)**, a Corgi.  
 He keeps me motivated and reminds me to stay positive during research.
 
-<img src="/images/6b031a7c040c99ff1133481061cfa72b.jpg" alt="Biaobiao (彪彪), my corgi" style="max-width:420px; border-radius:12px;" />
+<img src="/images/6b031a7c040c99ff1133481061cfa72b.jpg" alt="Biaobiao (彪彪), my corgi" style="max-width:200px; border-radius:12px;" />
