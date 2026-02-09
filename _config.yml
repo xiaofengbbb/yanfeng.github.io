@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "e0a13ca25515fcc52e7095900480b011.jpg"
+  avatar           : "/images/avatar.jpg"
   name             : "Yan Feng"
   pronouns         : # example: "his"  
   bio              : "Ph.D. student at the School of Data Science and Artificial Intelligence"
