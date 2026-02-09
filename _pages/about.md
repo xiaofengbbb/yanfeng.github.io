@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m **Yan Feng (冯岩)**, a **Ph.D. candidate (Year 2)** at **Chang’an University**, affiliated with the **Data Science & Artificial Intelligence School**.
+Hi! I’m **Yan Feng (冯岩)**, a **Ph.D. candidate (Year 2)** at **Chang’an University**, affiliated with the **School of Data Science & Artificial Intelligence**.
 
 My research focuses on **AI security for recommender systems**, with an emphasis on **poisoning attack detection**, **anomaly forensics**, and **reliability and stability-aware security mechanisms**. Recently, I have also extended these security studies to **traffic route recommendation systems**, aiming to build **controllable, stability-aware, and explainable** defenses in closed-loop transportation scenarios.
 
